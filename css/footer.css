@@ -27,6 +27,19 @@ body
     padding-top: 30px;
     font-size: 12px;
 }
+
+#webFooter a
+{
+    color: aliceblue;
+    text-decoration: none;
+    
+}
+
+#webFooter a:hover
+{
+    color: lightslategray;
+    cursor: pointer;
+}
 #credit 
 {
     width: 100%;

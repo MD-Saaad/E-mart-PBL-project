@@ -21,6 +21,11 @@ h1
     margin: auto;
     padding-bottom: 40px;
 }
+
+#containerClothing, #containerAccessoties :hover
+{
+    color: brown;
+}
 #box 
 {
     width: 100%;

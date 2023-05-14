@@ -59,6 +59,27 @@ body
     color: rgb(29, 29, 29);
 }
 
+#collection a:hover
+{
+    color: brown;
+}
+
+#navbar li a {
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 600;
+    color: #1a1a1a;
+    transition: 0.3s ease;
+  
+  }
+  
+  #collection a:hover,
+  #collection a.active {
+    color: #2948d3;
+  }
+  
+  
+
 .search
 {
     padding: 14px;
